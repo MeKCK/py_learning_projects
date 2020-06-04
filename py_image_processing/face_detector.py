@@ -7,7 +7,7 @@ img=cv2.imread("photo.jpg")
 gray_img=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 
 faces=face_cascade.detectMultiScale(gray_img, 
-scaleFactor=1.5,
+scaleFactor=1.1,
 minNeighbors=5)
 
 for x, y, w, h in faces:
