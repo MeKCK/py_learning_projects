@@ -2,6 +2,11 @@
 
 This is a 10 project code challenge, every branch will contain a different python project 
 
+##  projects done 
+- iteractive dictionary
+- webmaps using folium
+- 
+
 
 
 
